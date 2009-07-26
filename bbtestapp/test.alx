@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="test">
+		<name >
+			Location Services Test
+		</name>
+		<description >
+			Testing location services
+		</description>
+		<version >
+			0.2
+		</version>
+		<vendor >
+			AFA
+		</vendor>
+		<copyright >
+			Copyright (c) 2009 AFA
+		</copyright>
+		<fileset Java="1.39">
+			<directory >
+				
+			</directory>
+			<files >
+				test.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
