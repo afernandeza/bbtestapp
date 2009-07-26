@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+MIDlet-Version: 0.0
+MIDlet-Jar-Size: 115849
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: test.jar
+RIM-MIDlet-Icon-1-1: src/media/iconsmall.png,focused
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-URL-1: test-1.cod
+RIM-COD-SHA1-1: 78 6e 9e 58 39 d3 34 fe b6 d3 fa d2 03 b5 ff 62 99 54 ba d7
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Module-Name: test
+RIM-COD-Size-1: 62392
+RIM-COD-Size: 11668
+MIDlet-Name: test
+RIM-COD-Creation-Time: 1248578942
+MIDlet-1: ,media/iconsmall.png,
+RIM-COD-URL: test.cod
+MIDlet-Description: Testing location services
+RIM-COD-SHA1: 67 d9 69 13 27 83 65 d1 99 9e 42 91 64 72 52 1e e0 8d f3 18
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: <unknown>
+RIM-MIDlet-Icon-Count-1: 1
